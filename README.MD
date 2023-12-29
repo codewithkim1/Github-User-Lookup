@@ -20,7 +20,7 @@ To get started with this project, simply open the `index.html` file in a web bro
 
 ## Demo
 
-![Demo](path/to/your/screenshot.png)
+![Demo](https://raw.githubusercontent.com/codewithkim1/Github-User-Lookup/master/Screenshot%20from%202023-12-29%2023-18-16.png)
 
 ## Technologies Used
 
